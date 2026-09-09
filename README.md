@@ -2,7 +2,7 @@
 
 This interactive notebook explores the AM-GM inequality gap and the corresponding extremal two-point distributions from my Bachelor's thesis.
 
-It includes interactive controls for the logarithmic moment, the number of variables, the negative moment constraint, and (M), together with visualizations of the resulting support points and lower-bound gap.
+It provides interactive controls for the logarithmic moment, the number of variables, the negative-moment order $q$, and the bound $M$.
 
 ## Run locally
 
